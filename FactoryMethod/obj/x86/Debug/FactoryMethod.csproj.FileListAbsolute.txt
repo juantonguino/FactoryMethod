@@ -1,0 +1,10 @@
+c:\users\ingenieria\documents\visual studio 2010\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\users\ingenieria\documents\visual studio 2010\Projects\FactoryMethod\FactoryMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ingenieria\documents\visual studio 2010\Projects\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
+C:\Users\MiPc\Documents\Visual Studio 2013\Projects\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+C:\Users\MiPc\Documents\Visual Studio 2013\Projects\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
+C:\Users\MiPc\Documents\Visual Studio 2013\Projects\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\MiPc\Documents\Visual Studio 2013\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\MiPc\Documents\Visual Studio 2013\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
